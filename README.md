@@ -1,5 +1,5 @@
 # Hello, I’m Rizkyta! 🙋‍♀️
-- 👀 I’m interested in **Web Development**, especially Front-End. Other than that, I'm also interested in **Natural Language Processing**.
+- 👀 I’m interested in **Web and Software Development**, especially Front-End. Other than that, I'm also interested in **Natural Language Processing**.
 - 🖥️ My skills include, but are not limited, to Laravel, ReactJS and NodeJS.
 - 🌱 I’m currently learning Typescript.
 
